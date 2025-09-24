@@ -1,8 +1,4 @@
-package com.controller;
-
-java
-        package com.saigewoods.clientmanagement.controller;
-
+package com.saigewoods.clientmanagement.controller;
 
 import com.saigewoods.clientmanagement.model.Client;
 import com.saigewoods.clientmanagement.repository.ClientRepository;

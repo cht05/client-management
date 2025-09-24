@@ -1,8 +1,4 @@
-package com.model;
-
-java
-        package com.saigewoods.clientmanagement.model;
-
+package com.saigewoods.clientmanagement.model;
 
 import jakarta.persistence.*;
 import com.fasterxml.jackson.annotation.JsonFormat;
